@@ -64,4 +64,5 @@ npm install
 - `POST /api/notes` - Create a note (Protected)
 - `GET /api/users` - Get all users (Admin only)
 
+## Screenshot:
 <img width="1864" height="1104" alt="Opera Snapshot_2026-11-10_112312_localhost" src="https://github.com/user-attachments/assets/23823ecc-a42a-4f52-b820-9f35be0f5d4f" />
